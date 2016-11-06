@@ -1,0 +1,5 @@
+*.tar
+*.tar.gz
+*.csv
+*.DS_Store
+*.idea
